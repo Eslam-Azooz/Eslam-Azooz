@@ -53,5 +53,4 @@ I'm passionate about backend development, system design, and building scalable s
 <p align="center">
 🚀 "Code. Learn. Build. Scale."
 </p>
-🚀 "Code. Learn. Build. Scale."
-</p>
+
