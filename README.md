@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 I'm Eslam Azooz</h1>
 
 <p align="center">
-Backend Engineer | .NET Developer | System Design Enthusiast
+Software Engineer  | System Design Enthusiast
 </p>
 
 ---
